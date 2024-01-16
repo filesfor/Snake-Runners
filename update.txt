@@ -1,1 +1,2 @@
-Snake Runners V2.8 🟩
+Snake Runners V2.8 <color=green>🟩<color>
+<color=red>Hi<color>
