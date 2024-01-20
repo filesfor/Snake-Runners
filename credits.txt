@@ -1,2 +1,2 @@
 HOGAN (Physics Gun Script)
-CSVRStudios (Scripts)
+CSVRStudios (Audio Zone Script)
